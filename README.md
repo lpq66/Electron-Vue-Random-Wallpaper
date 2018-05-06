@@ -1,6 +1,6 @@
-# wp-changer-v2
+# Electron-Vue-Random-Wallpaper
 
-> An electron-vue project
+> Simple Wallpaper Changer based on wallhaven API 
 
 #### Build Setup
 
